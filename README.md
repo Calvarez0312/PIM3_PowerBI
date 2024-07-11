@@ -28,3 +28,14 @@ Me enfoque en realizar un diseño eficiente del modelo de datosy mockup, siguien
 
 #### Mockup
 ![Mockup](https://github.com/Calvarez0312/PIM3_PowerBI/blob/main/Imagenes%20Adventure%20Works/Mockup.jpg)
+
+## Generar medidas y columnas calculadas
+En esta etapa use DAX para crear medidas y columnas calculadas que analicen los ingresos, costos y otros indicadores claves, 
+fue util para un analisis dinamico y un mejor rendimiento del informe
+
+## Crear tablero
+Cree un reporte final en Power Bi, centrado en los ingresos. costos y rentabilidad y haciendo enfasis en el mercado estadounidense.
+
+#### Reporte General
+![Reporte General]
+
