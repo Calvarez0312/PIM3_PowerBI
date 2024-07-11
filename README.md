@@ -37,5 +37,8 @@ fue util para un analisis dinamico y un mejor rendimiento del informe
 Cree un reporte final en Power Bi, centrado en los ingresos. costos y rentabilidad y haciendo enfasis en el mercado estadounidense.
 
 #### Reporte General
-![Reporte General]
+![Reporte General](https://github.com/Calvarez0312/PIM3_PowerBI/blob/main/Imagenes%20Adventure%20Works/Report%20General.jpg)
+
+#### Reporte USA
+![Reporte USA](https://github.com/Calvarez0312/PIM3_PowerBI/blob/main/Imagenes%20Adventure%20Works/Report%20USA.jpg)
 
