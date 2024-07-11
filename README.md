@@ -16,3 +16,7 @@ En esta oportunidad se presenta la necesidad de que, en el rol de analista de da
   3. Utilizar DAX para calcular métricas clave.
 
   4. Diseñar informes que no solo sean visualmente atractivos, sino también informativos y fáciles de entender.
+
+## Visualizando el rendimiento de AWC
+### Modelo Relacional y Mockup del proyecto
+
