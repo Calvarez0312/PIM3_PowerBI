@@ -19,4 +19,12 @@ En esta oportunidad se presenta la necesidad de que, en el rol de analista de da
 
 ## Visualizando el rendimiento de AWC
 ### Modelo Relacional y Mockup del proyecto
+En este avance se plantea el diseño de un mockup y un modelo relacional en Power Bi. El reporte respondera preguntas claves, sobre
+ingresos, ventas, utilidades, costos y distribucion geografica de clientes y productos.
+Me enfoque en realizar un diseño eficiente del modelo de datosy mockup, siguiendo las pautas para optimizar el rendimiento y facilitar el analisis. La estructura del informe prioriza el uso del patron Z para ofrecer insights claros sobre el rendimiento de las ventas.
 
+#### Modelo Relacional
+![Modelo relacional](https://github.com/Calvarez0312/PIM3_PowerBI/blob/main/Imagenes%20Adventure%20Works/Modelo%20Relacional.jpg)
+
+#### Mockup
+![Mockup](https://github.com/Calvarez0312/PIM3_PowerBI/blob/main/Imagenes%20Adventure%20Works/Mockup.jpg)
